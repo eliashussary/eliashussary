@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Elias! 👋 
+
+- 🚀 Technical Co-founder @ Listatto.com
+- 💼 Senior Web Engineer @ TR
+- 💻 Typescript, Node, Go  
+- 📫 How to reach me: 
+  - Socials: @eliashussary
+  - Email: eliashussary@gmail.com    
+
 
 <!--
 **eliashussary/eliashussary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
