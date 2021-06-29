@@ -1,7 +1,7 @@
 ### Hi there, I'm Elias! 👋 
 
 - 🚀 Technical Co-founder @ Listatto.com
-- 💼 Senior Web Engineer @ TR
+- 💼 Senior Front End Developer @ Shopify
 - 💻 Typescript, Node, Go  
 - 📫 How to reach me: 
   - Socials: @eliashussary
