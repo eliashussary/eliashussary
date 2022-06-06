@@ -1,8 +1,8 @@
 ### Hi there, I'm Elias! 👋 
 
 - 🚀 Technical Co-founder @ Listatto.com
-- 💼 Senior Front End Developer @ Shopify
-- 💻 Typescript, Node, Go  
+- 💼 Senior Software Engineer @ Sentry.io
+- 💻 Typescript, Node, Go, Python  
 - 📫 How to reach me: 
   - Socials: @eliashussary
   - Email: eliashussary@gmail.com    
